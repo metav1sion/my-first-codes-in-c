@@ -1,4 +1,4 @@
-//En büyük sayıyı bulma 
+//En bÃ¼yÃ¼k sayÃ½yÃ½ bulma 
 //v1sion
 #include <stdio.h>  
 
