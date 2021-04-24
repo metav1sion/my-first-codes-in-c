@@ -4,8 +4,8 @@
 #include<math.h>
 #define PI 3.14159
 	
-	double cember_cevre(double yaricap); //çevre hesaplanýr
-	double cember_alan(double yaricap); // alan hesaplanýr
+	double cember_cevre(double yaricap); //Ã§evre hesaplanÄ±r
+	double cember_alan(double yaricap); // alan hesaplanÄ±r
 
 int main(void){
 	
