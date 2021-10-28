@@ -73,3 +73,4 @@ int fact_cal(int sayi)
 	
 	return cevap;
 }
+https://shop.huawei.com/tr/product/huawei-matebook-13-r7
